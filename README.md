@@ -1,5 +1,5 @@
-# space book
+# Space Book
 
 i am a space book
 
-## the end
+## The End
